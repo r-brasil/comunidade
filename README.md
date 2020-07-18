@@ -1,2 +1,3 @@
-# profissionais-do-r-brasil
-Lista de membros da comunidade R-Brasil que trabalham com R
+# Comunidade
+
+Repositório com informações sobre a comunidade R-Brasil
