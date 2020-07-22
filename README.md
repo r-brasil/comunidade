@@ -1,3 +1,4 @@
 # Comunidade
 
-Repositório com informações sobre a comunidade R-Brasil
+[Repositório](./profissionais-r-brasil.md) com informações sobre a comunidade R-Brasil
+
