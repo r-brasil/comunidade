@@ -10,7 +10,7 @@ Leonardo Nascimento
 
 [Marcelo Ventura Freire](https://www.linkedin.com/in/marcelo-ventura-freire/) - Interessado em Probabilidade e Processos Estocásticos, em Análise e Modelagem Bayesiana, em Psicometria, em EDA, em Métodos de Análise Multivariada, em orientação e aconselhamento acadêmicos, em métodos computacionais intensivos -- mais interessado no *método* do que no *nicho de aplicação* especificamente
 
-[Marília Melo Favalesso](linktr.ee/mmfava) - Interessada em ecoepidemiologia espacial e análise de dados biológicos. 
+[Marília Melo Favalesso](http://linktr.ee/mmfava/) - Interessada em ecoepidemiologia espacial e análise de dados biológicos. 
 
 Rik Ferreira
 
