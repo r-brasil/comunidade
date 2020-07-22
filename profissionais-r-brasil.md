@@ -1,4 +1,4 @@
-### Interesses profissionais de membros do grupo R do Telegram 
+### Interesses profissionais de membros do grupo [*R Brasil*](https://t.me/rbrasiloficial) do Telegram 
 
 [Charles Novaes de Santana](https://linkedin.com/in/cndesantana/) - Interessado em pesquisa científica interdisciplinar, jornalismo de dados, freelances em visualização de dados, EDA, grafos, machine learning, simulações computacionais, datawarehouse
 
